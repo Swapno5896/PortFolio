@@ -599,3 +599,21 @@ height: 400px;
 	.font-x2{font-size:1.6rem;}
 	.font-x3{font-size:1.8rem;}
 }
+
+
+/* research */
+.research_container{
+	display: flex;
+}
+.research_detail_container{
+	margin-left: 10%;
+	height: 400px;
+    width: 50%;
+    background-color: aliceblue;
+}
+.researcher_conterner{
+    width: 30%;
+    background-color: rgb(213, 58, 58);
+	height: 400px;
+	margin-right: 8%;
+}
