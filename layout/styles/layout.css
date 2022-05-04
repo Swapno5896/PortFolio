@@ -339,7 +339,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#8EC837 !important;}
 
 
 /* Rows */
-.row0, .row0 a{color:#FFFFFF; background-color:#8EC837;}
+.row0, .row0 a{color:#FFFFFF; background-color:#005866;}
 .row1{color:#474747; background-color:#FFFFFF;}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#FFFFFF;}
@@ -361,7 +361,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#8EC837 !important;}
 
 
 /* Header */
-#header{color:#FFFFFF; background-color:#8EC837;}
+#header{color:#FFFFFF; background-color:#232343;}
 #header #logo a{color:inherit;}
 
 
